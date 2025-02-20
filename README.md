@@ -31,6 +31,11 @@ Download it on your OpenComputer:
 ```bash
 wget https://raw.githubusercontent.com/ArthurTakita/gtnh-item-tracker/refs/heads/main/TrackItems.lua && TrackItems
 ```
+Or 
+```bash
+pastebin get aWD1P59a TrackItems.lua
+```
+
 
 Run it
 ```bash
@@ -52,6 +57,9 @@ On a Server it's gonna be the same, but you need to have access to the server fi
 
 ## Config
 You can change the items that you wanna track via Subnet with a Storage Bus linked to a Interface (Main Net) and filter the items that you want it.
+
+![alt text](media/computer_net.png)
+
 
 ## Uploading the Items.txt file to Supabase
 
