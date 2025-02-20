@@ -1,5 +1,5 @@
 # GTNH Item Tracking + Dashboard
-Track the amount of items you have in your Applied Energistics Storage over time, and save it into a file (txt), which can be uploaded to Supabase and generate some charts (using Streamlit).
+A Lua script for Open Computers that get the amount of items you have in your Applied Energistics Storage over time, and save it into a file (txt), which can be uploaded to Supabase and generate some charts (using Streamlit).
 
 ## Pre-requisites
 
