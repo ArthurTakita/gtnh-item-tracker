@@ -29,7 +29,7 @@ Other Components
 
 Download it on your OpenComputer:
 ```bash
-wget https://raw.githubusercontent.com/ArthurTakita/gtnh-item-tracker/refs/heads/main/TrackItems.lua
+wget https://raw.githubusercontent.com/ArthurTakita/gtnh-item-tracker/refs/heads/main/TrackItems.lua && TrackItems
 ```
 
 Run it
