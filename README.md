@@ -143,4 +143,6 @@ Then on Advanced settings you're gonna put your Supabase **URL** and **APIKEY** 
 
 After that you should be able to get a Dashboard showing all your items like this: https://gtnh-takita.streamlit.app/
 
+![alt text](media/streamlit_dash.png)
+
 
