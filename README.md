@@ -44,7 +44,8 @@ If you are running the World in Singleplayer the Items.txt files is gonna be:
 
 %appdata% -> **YourModpack**\saves\\**YourWorld**\opencomputers\\**HardDriveID**\home\
 
-![alt text](media/computer_driveid.png)
+**HardDriveID**
+![Hard Drive ID](media/computer_driveid.png)
 
 ## Server
 On a Server it's gonna be the same, but you need to have access to the server files.
@@ -52,7 +53,7 @@ On a Server it's gonna be the same, but you need to have access to the server fi
 ## Config
 You can change the items that you wanna track via Subnet with a Storage Bus linked to a Interface (Main Net) and filter the items that you want it.
 
-## Uploading the Items.txt file to Supabase (free and online)
+## Uploading the Items.txt file to Supabase
 
 ### Create the Database
 Create your project on https://supabase.com/
