@@ -29,7 +29,7 @@ Other Components
 
 Download it on your OpenComputer:
 ```bash
-wget GitHubLink && installer
+wget GitHubLink
 ```
 
 Run it
